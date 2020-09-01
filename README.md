@@ -12,4 +12,4 @@ Heroku is used for deployment.
 Deployed URL:
 https://developerfeedback.herokuapp.com/
 
-With help from tutorial by TraveryMedia.
+With help from tutorial by TraversyMedia.
