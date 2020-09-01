@@ -1,3 +1,4 @@
+## General info
 This is feedback submission form using Python, Flask and PostgreSQL.
 The user can submit their name, choose a developer, enter a rating and make a comment.
 On successful submit, the user gets a success page.
